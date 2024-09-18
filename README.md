@@ -1,2 +1,2 @@
-# yanikatelus..github.io
+# yanikatelus.github.io
 Yanika's Resume
