@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yanikatelus.github.io/static/css/main.079314eb.css",
+    "main.js": "/yanikatelus.github.io/static/js/main.05c66dbc.js",
+    "static/js/453.acca0757.chunk.js": "/yanikatelus.github.io/static/js/453.acca0757.chunk.js",
+    "static/media/typing.png": "/yanikatelus.github.io/static/media/typing.3a258228391e8f3da014.png",
+    "index.html": "/yanikatelus.github.io/index.html",
+    "main.079314eb.css.map": "/yanikatelus.github.io/static/css/main.079314eb.css.map",
+    "main.05c66dbc.js.map": "/yanikatelus.github.io/static/js/main.05c66dbc.js.map",
+    "453.acca0757.chunk.js.map": "/yanikatelus.github.io/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.079314eb.css",
+    "static/js/main.05c66dbc.js"
+  ]
+}
